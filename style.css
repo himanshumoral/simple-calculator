@@ -14,7 +14,6 @@ body{
 
 .calculator{
     width: 250px;
-    border: 2px solid black;
     padding: 20px;
     border-radius: 16px;
     background: linear-gradient(50deg, rgb(210, 122, 122),rgb(77, 77, 189));
