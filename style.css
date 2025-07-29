@@ -13,7 +13,7 @@ body{
 }
 
 .calculator{
-    width: 320px;
+    width: 250px;
     border: 2px solid black;
     padding: 20px;
     border-radius: 16px;
@@ -23,7 +23,7 @@ body{
 }
 
 input{
-    width: 270px;
+    width: 200px;
     border: 3px solid rgba(210, 148, 222, 0.655);
     border-radius: 20px;
     padding: 24px;
@@ -42,13 +42,13 @@ input::placeholder{
 
 button{
     border: none;
-    width: 50px;
-    height: 50px;
-    margin: 13px;
+    width: 30px;
+    height: 30px;
+    margin: 14px;
     border-radius: 50%;
     background: transparent;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     box-shadow: -3px -5px 15px rgb(252, 111, 228);
     cursor: pointer;
 }
