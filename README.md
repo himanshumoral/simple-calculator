@@ -17,7 +17,7 @@ This is a simple and responsive calculator built using **HTML, CSS, and JavaScri
 
 ## 🌐 Live Demo
 
-[Click here to view the live project](https://yourusername.github.io/your-repo-name/)
+[Click here to view the live project](https://himanshumoral.github.io/simple-calculator/)
 
 ## 📁 How to Use
 
